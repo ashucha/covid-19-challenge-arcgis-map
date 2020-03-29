@@ -91,7 +91,7 @@ require([
   //This takes advantage of firebase's REST API
   request.open(
     "GET",
-    "https://covid-19-challenge-272517.firebaseio.com/Coordinates.json"
+    "https://covid-19-challenge-272517.firebaseio.com/coordinates.json"
   );
 
   //Once data comes in
