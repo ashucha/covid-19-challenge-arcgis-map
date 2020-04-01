@@ -1,0 +1,4 @@
+{
+    "prettier.bracketSpacing": false,
+    "prettier.vueIndentScriptAndStyle": true
+}
